@@ -12,7 +12,7 @@ HASIL/OUTPUT PROGRAM:
 
 <img width="960" height="600" alt="Screenshot 2026-09-15 192920" src="https://github.com/user-attachments/assets/6f7bd158-ac4c-4cc5-b1ae-13649df80525" />
 
-PENJELASAN CODENPROGRAM :
+PENJELASAN CODE PROGRAM :
 
 1. Membuat Dictionary
 
@@ -24,13 +24,13 @@ PENJELASAN CODENPROGRAM :
 
    -Tahun terbit
 
-   Setiap keterangan disimpan berpasangan kunci : nilai.
+   Setiap keterangan disimpan berpasangan kunci : nilai. ini seperti menyiapkan buku catatan kosong yang sudah ada isinya.
 
 2. Perulangan
 
    while True
 
-   Supaya menu bisa dipilih berulang-ulang tanpa berhenti. Program akan terus berjalan sampai pengguna memiliki nomor 5 untuk keluar.
+   Supaya menu bisa dipilih berulang-ulang tanpa berhenti. Program akan terus berjalan sampai pengguna memiliki nomor 5 untuk berhenti. jadi kita bisa pilih menu berapa kali saja tanpa program langsung tertutup.
 
 3. Menampilkan Menu
 
@@ -46,7 +46,7 @@ PENJELASAN CODENPROGRAM :
 
    Pilihan 3 - Ubah Penulis
 
-   Mengganti isi bagian penulis dengan nama yang mau diganti pengguna. Isi nama langsung tertimpa dengan yang baru.
+   Mengganti isi bagian penulis dengan nama yang mau diganti pengguna. Isi nama langsung tertimpa dengan yang baru. nama yang lama jadi hilang dan nama yang baru langsung masuk menggantikkannya.
 
    Pilihan 4 - Hapus Penerbit
 
